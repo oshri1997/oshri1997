@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **C,C++,Javascript,HTML,CSS,React**
 
+- 💻 I'm a Computer Science Student
+
 - 📫 How to reach me **oshri19970@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
