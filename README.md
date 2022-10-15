@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oshri Moalem</h1>
 <h3 align="center">A passionate frontend developer from Israel</h3>
-<img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400px" align="center>
+<img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400px" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshri1997&label=Profile%20views&color=0e75b6&style=flat" alt="oshri1997" /> </p>
 
 - 🌱 I’m currently learning **React**
