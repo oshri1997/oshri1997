@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 💬 Ask me about **C,C++,Javascript,HTML,CSS,React**
+
 - 📫 How to reach me **oshri19970@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
