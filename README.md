@@ -47,7 +47,7 @@
 ---
 
 ## 📊 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=oshri1997&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=oshri1997&show_icons=true&count_private=true&hide_border=true](https://camo.githubusercontent.com/fceca8738ca7bfc03ecc62ab97a2df9766b439d4c4f4fca1abaa12be224a86aa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6f73687269313939372673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d6461726b" align="center" /></div>  
 
 ---
 
