@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oshri Moalem</h1>
 <div align="center">
-<img src="https://camo.githubusercontent.com/30d36158a85a6546da87feac9daabc5a5ee6298d28adc6e079e94b99ef5faa99/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313637393435373332313431352f65343034633532322d386336632d343239612d623232362d6638633938623963333934382e676966" align="center" style="width: 100%" />
+<img src="https://camo.githubusercontent.com/30d36158a85a6546da87feac9daabc5a5ee6298d28adc6e079e94b99ef5faa99/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313637393435373332313431352f65343034633532322d386336632d343239612d623232362d6638633938623963333934382e676966" align="center" style="width: 1000px" />
 </div>  
   
 
@@ -23,7 +23,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
@@ -46,15 +45,6 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
